@@ -1,3 +1,4 @@
 # Data files
 data/RYOS_full.csv
 
+data/similarity_matrices/*.tsv
